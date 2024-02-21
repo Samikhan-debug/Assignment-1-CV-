@@ -1,0 +1,31 @@
+.parent{
+    display: flex;
+    /* flex-direction: column; */
+    width: 100vw;
+    
+
+}
+
+.left{
+    width: 30%;
+}
+
+.right{
+    width: 70%;
+
+}
+
+.edu{
+    border: 3px solid gray;
+    padding: 3px;
+    background-color: gray;
+
+}
+
+.image{
+    border-radius: 120px;
+}
+
+.subright{
+    display: flex;
+}
